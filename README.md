@@ -11,6 +11,11 @@
 
 ## Description 
 
+In this project we used Dayjs for time and date. we used this time to compare with the id of hours to show whats past present or future.
+Each text box will change color depending on the time. if its passed it will be gray. If its present it will be red. and if its future it will be green.
+Each time we add text content to a box and click save it will save that text in the local storage and still present it when the page is refreshed.
+Overall this webpage is an easy space to save information based on the work day and its a good scheduler for day to day items.
+
 
 
 ### Links
