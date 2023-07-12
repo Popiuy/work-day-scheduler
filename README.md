@@ -11,11 +11,9 @@
 
 ## Description 
 
-This project I was instructed to create a password generator. The generator takes into account characters such as Uppercase, Lowercase, Special, and Nmmbers.
-When the button is clicked the user chooses the length of the password, and confirms wether or not they would like each of these characters included.
-The end product is posted into the box so that the user can use this generated password and copy it.
+
 
 ### Links
-github:[]()
-Deployed Webpage:[]()
+github:[https://github.com/Popiuy/work-day-scheduler](https://github.com/Popiuy/work-day-scheduler)
+Deployed Webpage:[https://popiuy.github.io/work-day-scheduler/](https://popiuy.github.io/work-day-scheduler/)
 Screenshot: ()
